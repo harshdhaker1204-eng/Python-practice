@@ -1,0 +1,5 @@
+name="vedant jain"
+age=20
+city="Singoli"
+
+hello python is object oriented programming language
