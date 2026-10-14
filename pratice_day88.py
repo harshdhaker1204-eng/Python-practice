@@ -10,11 +10,11 @@
 # Node5=treeNode(15)
 
 # def insert(self):
-nums=[1,2,3,4,5]
-k=3
-n=len(nums)
-result=[0]*3
-dp=[0]*3
-for i in range(n):
-    for j in range(i,n)
+# nums=[1,2,3,4,5]
+# k=3
+# n=len(nums)
+# result=[0]*3
+# dp=[0]*3
+# for i in range(n):
+#     for j in range(i,n)
     
